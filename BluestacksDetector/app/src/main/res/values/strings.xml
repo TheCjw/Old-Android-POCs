@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">BluestacksDetector</string>
+  
+  <string name="button_detect_bluestacks">Detect Bluestacks</string>
+  <string name="button_read_host_file">Read file from host</string>
+  <string name="button_drop_file_to_host">Drop file to host</string>
+
+</resources>
